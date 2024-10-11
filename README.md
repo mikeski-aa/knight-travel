@@ -5,3 +5,12 @@ You can think of the board as having 2-dimensional coordinates. Your function wo
 knightMoves([0,0],[1,2]) == [[0,0],[1,2]]
 
 </b>
+
+
+<h1>How to run</h1>
+<ol>
+  <li>Clone repo</li>
+  <li>Open main.mjs with your code editor</li>
+  <li>Set sCoord (starting coord) and tCoord (target coord). The chessboard is an 8x8 grid, acceptable values range from 0-7</li>
+  <li>Run main.mjs via terminal "node main.mjs"</li>
+</ol>
